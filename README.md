@@ -1,6 +1,6 @@
 # ESP32 WiFi Hotspot Bridge
 
-Transform your ESP32 into a WiFi bridge/hotspot that connects to an existing WiFi network and shares that connection with other devices. Perfect for extending WiFi range, bypassing device limitations, or creating a portable hotspot.
+Transform your ESP32 into a WiFi bridge/hotspot that connects to an existing WiFi network and shares that connection with other devices. Perfect for extending WiFi range, bypassing device limitations, or creating a portable hotspot. (NOTE : Bandwidth is limited to ~10mbps due to hardware limitations)
 
 ## 🌟 Features
 
